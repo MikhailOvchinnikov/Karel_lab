@@ -1,2 +1,7 @@
 sub_train/ filter=lfs diff=lfs merge=lfs -text
+sub_train/train1.json filter=lfs diff=lfs merge=lfs -text
+sub_train/train3.json filter=lfs diff=lfs merge=lfs -text
+sub_train/train10.json filter=lfs diff=lfs merge=lfs -text
+sub_train/new_vocab.vocab filter=lfs diff=lfs merge=lfs -text
+sub_train/val.json filter=lfs diff=lfs merge=lfs -text
 sub_train/** filter=lfs diff=lfs merge=lfs -text
