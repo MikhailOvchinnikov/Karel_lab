@@ -1,6 +1,4 @@
 data/
-sub_train/
-exps/
 venv/
 build/
 dist/
